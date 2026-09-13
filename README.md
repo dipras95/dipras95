@@ -4,7 +4,7 @@
 |---|---|
 | **[BookFlow](https://github.com/dipras95/bookflow)** · [demo](https://bookflow-ruddy.vercel.app) | Booking & dashboard analitik untuk salon/barbershop. Next.js 16, Prisma 7, Neon, Auth.js |
 | **[Catatan Laundry](https://github.com/dipras95/Laundry)** | Aplikasi Android offline-first untuk laundry kiloan. Flutter, drift (SQLite), Riverpod — skema sync-ready, 24 test |
-| **[CekMargin](https://github.com/dipras95/cekmargin)** | Kalkulator untung seller marketplace (Shopee, Tokopedia, TikTok Shop). Astro |
+| **[CekMargin](https://github.com/dipras95/cekmargin)** · [situs](https://cekmargin.pages.dev) | Kalkulator untung seller marketplace (Shopee, Tokopedia, TikTok Shop). Astro |
 | **[Jurnal Trading](https://github.com/dipras95/jurnal)** | Jurnal trading pribadi dengan import Excel & analitik PnL. Next.js, Prisma, SQLite |
 
 ## Cara saya bekerja
