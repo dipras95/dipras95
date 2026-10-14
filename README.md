@@ -1,18 +1,16 @@
-## Proyek
+## Projects
 
 | | |
 |---|---|
-| **[BookFlow](https://github.com/dipras95/bookflow)** · [demo](https://bookflow-ruddy.vercel.app) | Booking & dashboard analitik untuk salon/barbershop. Next.js 16, Prisma 7, Neon, Auth.js |
-| **[Catatan Laundry](https://github.com/dipras95/Laundry)** | Aplikasi Android offline-first untuk laundry kiloan. Flutter, drift (SQLite), Riverpod — skema sync-ready, 24 test |
-| **[CekMargin](https://github.com/dipras95/cekmargin)** · [situs](https://cekmargin.pages.dev) | Kalkulator untung seller marketplace (Shopee, Tokopedia, TikTok Shop). Astro |
-| **[Jurnal Trading](https://github.com/dipras95/jurnal)** | Jurnal trading pribadi dengan import Excel & analitik PnL. Next.js, Prisma, SQLite |
+| **[BookFlow](https://github.com/dipras95/bookflow)** · [demo](https://bookflow-ruddy.vercel.app) | Booking management and analytics dashboard for barbershops and salons. Next.js 16, Prisma 7, Neon, Auth.js |
+| **[Catatan Laundry](https://github.com/dipras95/Laundry)** | Offline-first Android app for laundromats. Flutter, drift (SQLite), Riverpod, sync-ready schema, 24 tests |
+| **[CekMargin](https://github.com/dipras95/cekmargin)** · [situs](https://cekmargin.pages.dev) | Net profit calculator for marketplace sellers (Shopee, Tokopedia, TikTok Shop). Astro |
+| **[Jurnal Trading](https://github.com/dipras95/jurnal)** | Personal trading log with Excel import and PnL analytics. Next.js, Prisma, SQLite |
 
-## Cara saya bekerja
+## How I Work
 
-Mulai dari masalah, bukan fitur — tiap proyek punya PRD dengan hipotesis dan
-kill criteria sebelum kode ditulis. Offline-first kalau penggunanya di lapangan.
-Test untuk perilaku yang benar-benar penting, bukan angka coverage.
+Start with the problem, not features. Every project starts with a PRD defining hypotheses and kill criteria before writing code. Prioritize offline-first architecture for field operations. Test critical behavior instead of chasing code coverage numbers.
 
 **Stack:** Flutter · TypeScript / Next.js · Astro · Prisma · SQLite / Postgres
 
-📫 mobplay.net@gmail.com
+Contact: mobplay.net@gmail.com
