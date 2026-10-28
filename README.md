@@ -1,6 +1,6 @@
 # Hi, I'm Abdi 👋
 
-Full-stack product engineer in Jakarta (UTC+7), open to remote roles with US-hours overlap. I own products end to end: database, API, web, mobile, servers, and the security work in between.
+Full-stack product engineer in Jakarta (UTC+7). I own products end to end: database, API, web, mobile, servers, and the security work in between.
 
 ## What I work on
 
