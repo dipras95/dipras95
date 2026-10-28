@@ -10,7 +10,6 @@ Full-stack product engineer in Jakarta (UTC+7). I own products end to end: datab
 
 | | |
 |---|---|
-| **[BookFlow](https://github.com/dipras95/bookflow)** · [live demo](https://bookflow-ruddy.vercel.app) | Multi-tenant booking and analytics dashboard for barbershops and salons. Next.js 16, Prisma 7, Neon Postgres, Auth.js, Vitest, GitHub Actions CI |
 | **[CekMargin](https://github.com/dipras95/cekmargin)** · [live site](https://cekmargin.pages.dev) | Profit calculators for sellers on Southeast Asian marketplaces (Shopee, Tokopedia, TikTok Shop). Astro, React |
 | **[Trading Journal](https://github.com/dipras95/jurnal)** | Single-user trading log with Excel import and PnL analytics. Next.js, Prisma, SQLite |
 
