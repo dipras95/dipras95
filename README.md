@@ -5,7 +5,6 @@ Full-stack product engineer in Jakarta (UTC+7), open to remote roles with US-hou
 ## What I work on
 
 - **FIX** (pet-care booking marketplace, Indonesia). Sole engineer across a Laravel API, a Next.js customer site, a React admin dashboard, and Flutter apps. Moved the site off Flutter Web to Next.js (Lighthouse 75 → 91) and run the production servers and CI/CD. *Private repo.*
-- **Avangard VPN.** A WireGuard VPN service with a Fastify + SQLite backend and native Android (Kotlin / Jetpack Compose) and iOS (SwiftUI) clients. *Private repo.*
 
 ## Projects
 
